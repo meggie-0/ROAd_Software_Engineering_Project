@@ -6,9 +6,9 @@ Politecnico di Milano: Software Engineering Course project: autonomous ride-shar
 
 | Name | GitHub |
 |------|--------|
-|   Margherita   |   Bertipaglia     |
-|   Pasquale Ludovico   |   Ignarra     |
-|   David   |   Cazzaniga     |
+|   Margherita Bertipaglia  |    meggie-0    |
+|   Pasquale Ludovico  Ignarra |        |
+|   David Cazzaniga  |        |
 
 ## Documentation
 
