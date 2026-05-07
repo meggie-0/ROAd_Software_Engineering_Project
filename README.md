@@ -1,14 +1,14 @@
 # ROAd – Robotaxi Optimized Allocation
 
-Software Engineering course project — an autonomous ride-sharing (robotaxi) application.
+Politecnico di Milano: Software Engineering Course project: autonomous ride-sharing (robotaxi) application.
 
 ## Team
 
 | Name | GitHub |
 |------|--------|
-|      |        |
-|      |        |
-|      |        |
+|   Margherita   |   Bertipaglia     |
+|   Pasquale Ludovico   |   Ignarra     |
+|   David   |   Cazzaniga     |
 
 ## Documentation
 
